@@ -1,6 +1,6 @@
 FCC Bar Chart Project
 
-Environment: JS, D3
+Environment: JS, D3.js
 
 LIVE DEMO: 
 
